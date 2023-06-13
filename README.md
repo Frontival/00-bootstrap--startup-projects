@@ -1,8 +1,8 @@
 # 00--bootstrap--startup-projektow
 
-## 1. startup jest przygotowany pod technologie
+## 1. startup jest przygotowany pod framework
 
-#### HTML, CSS(SASS) i JS
+#### Bootstrap
 
 ## 2. dodatkowo
 
