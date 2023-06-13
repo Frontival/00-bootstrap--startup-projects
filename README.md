@@ -1,4 +1,4 @@
-# 00--startup-projektow
+# 00--bootstrap--startup-projektow
 
 ## 1. startup jest przygotowany pod technologie
 
